@@ -12,6 +12,20 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+Phos Abyss Survey Corp. is a young survey company consisting of highly
+experienced geophysical and geotechnical surveyors based in and around
+Philippines. The company’s main focus is to deliver a high quality, client
+tailored product on time and to agreed cost. To achieve this goal, Phos
+Abyss Survey, will focus on finding the right setup and solutions based on
+the client’s needs and requirements. Main tools for achieving these goals
+are:
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+- Use of highly experienced personnel
+
+- Use and access to the best equipment in the market
+
+- Utilizing well known survey methods and calibration routines
+
+- Close relationship and follow up with the end client
+
+- Delivering a tailored solution for the client based on the specifications of the work

@@ -7,7 +7,7 @@
    ========================================================================== */
 
 #masthead {
-	padding: $gutter;
+	// padding: $gutter;
 	z-index: 5;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
@@ -105,7 +105,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
+			color: $body-color;
 			text-transform: uppercase;
 		}
 	}
@@ -248,10 +248,10 @@
 	h1 {
 		@include font-size(48);
 		@include media($medium) {
-			@include font-size(60);
+			@include font-size(50);
 		}
 		@include media($large) {
-			@include font-size(72);
+			@include font-size(60);
 		}
 	}
 	h2 {

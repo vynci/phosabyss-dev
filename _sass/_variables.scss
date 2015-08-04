@@ -6,7 +6,7 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
+$base-font                   	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 $heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
@@ -24,9 +24,9 @@ $border-radius               	: 3px;
 $white                        : #fff;
 $black                        : #000;
 
-$body-color                  	: #ebebeb;
+$body-color                  	: #155246;
 
-$text-color                  	: #313130;
+$text-color                  	: #155246;
 $caption-color                : mix($white, $text-color, 25%);
 
 $base-color                  	: #343434;
