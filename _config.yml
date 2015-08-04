@@ -5,7 +5,7 @@ description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: http://localhost:4000/
+url: http://phosabyss.github.io/site
 
 # Jekyll configuration
 
@@ -13,10 +13,9 @@ baseurl: /
 sass:
   sass_dir: _sass
   style: compressed
+markdown: kramdown
 permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: pygments
+highlight: pygments
 gems:
   - jekyll-sitemap
 
